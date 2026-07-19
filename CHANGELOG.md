@@ -24,6 +24,10 @@
 - SGC composition corrected (shortfall on salary & wages + nominal interest + admin fee); casual conversion updated to the Employee Choice Pathway; ETP cap $260k / whole-of-income $180k fixed confirmed.
 - Citation sweep (ss 82-150/82-155, lump sum A codes R/T, s 37 assessment window) and the FY2026-27 horizon added.
 
+### Cover
+
+- Standard poster cover regenerated to match the series template (the initial pinned cover-art variant was replaced; no content change).
+
 ### Validation
 
 - Publication preflight and image audit: 68/68 checks passed.

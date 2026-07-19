@@ -6,21 +6,14 @@
 
 Covers: STP Phase 2 disaggregated reporting; the superannuation guarantee (12% from 1 July 2025), SGC, and the quarterly due dates; PAYG withholding using the current ATO tax tables; award compliance and the underpayment risk; termination payments (ETPs, genuine redundancy, leave); salary packaging and reportable super contributions; state and territory payroll tax; workers' compensation premiums; worker classification traps; year-end STP finalisation and reconciliation; payroll audit risk management; and a master checklist and prompt pack. Does NOT give tax, employment law, or financial product advice.
 
-## Read Online
-
-Read the book in the browser on the dedicated website: [https://imehr.github.io/the-agentic-payroll-agent-site/](https://imehr.github.io/the-agentic-payroll-agent-site/). The web version is the best place to browse chapters and share the book; this repository holds the downloadable editions.
-
 ## Download
-
-All formats are attached to the [v0.1.0 GitHub Release](https://github.com/imehr/the-agentic-payroll-agent/releases/tag/the-agentic-payroll-agent-v0.1.0) ([latest](https://github.com/imehr/the-agentic-payroll-agent/releases/latest)).
-
 
 | Format | File |
 |--------|------|
-| Paged HTML Preview | [the-agentic-payroll-agent-paged.html](https://github.com/imehr/the-agentic-payroll-agent/releases/download/the-agentic-payroll-agent-v0.1.0/the-agentic-payroll-agent-paged.html) |
-| ePub | [the-agentic-payroll-agent.epub](https://github.com/imehr/the-agentic-payroll-agent/releases/download/the-agentic-payroll-agent-v0.1.0/the-agentic-payroll-agent.epub) |
-| HTML | [the-agentic-payroll-agent.html](https://github.com/imehr/the-agentic-payroll-agent/releases/download/the-agentic-payroll-agent-v0.1.0/the-agentic-payroll-agent.html) |
-| PDF | [the-agentic-payroll-agent.pdf](https://github.com/imehr/the-agentic-payroll-agent/releases/download/the-agentic-payroll-agent-v0.1.0/the-agentic-payroll-agent.pdf) |
+| Paged HTML Preview | [the-agentic-payroll-agent-paged.html](the-agentic-payroll-agent-paged.html) |
+| ePub | [the-agentic-payroll-agent.epub](the-agentic-payroll-agent.epub) |
+| HTML | [the-agentic-payroll-agent.html](the-agentic-payroll-agent.html) |
+| PDF | [the-agentic-payroll-agent.pdf](the-agentic-payroll-agent.pdf) |
 
 ## What This Book Covers
 
