@@ -6,6 +6,10 @@
 
 Covers: STP Phase 2 disaggregated reporting; the superannuation guarantee (12% from 1 July 2025), SGC, and the quarterly due dates; PAYG withholding using the current ATO tax tables; award compliance and the underpayment risk; termination payments (ETPs, genuine redundancy, leave); salary packaging and reportable super contributions; state and territory payroll tax; workers' compensation premiums; worker classification traps; year-end STP finalisation and reconciliation; payroll audit risk management; and a master checklist and prompt pack. Does NOT give tax, employment law, or financial product advice.
 
+## Read Online
+
+Read the book in the browser on the dedicated website: [https://imehr.github.io/the-agentic-payroll-agent-site/](https://imehr.github.io/the-agentic-payroll-agent-site/). The web version is the best place to browse chapters and share the book; this repository holds the downloadable editions.
+
 ## Download
 
 | Format | File |
